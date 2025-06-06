@@ -1,0 +1,23 @@
+.featured-engagements{
+    padding-left: 80px;
+    padding-right: 80px;
+    display: flex;
+    flex-direction: column;
+    gap: 100px;
+}
+
+.featured-heading{
+    font-size: 3rem;
+    font-weight: 700;
+}
+
+.featured-engagements-items{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.featured-items-flex{
+    display: flex;
+    flex-direction: row;
+}

@@ -1,0 +1,49 @@
+
+
+[
+{
+    "number" : "01",
+    "img" : "/img1.jpg",
+    "title" : "B/D JAMS",
+    "year" : "2022",
+    "main" : "ITS A VIBE",
+    "para" : "A weekly-ish playlist curated by the employees @ BASIC/DEPT",
+    "link" : "Visit the site"
+},
+{
+    "number" : "02",
+    "img" : "/img2.jpg",
+    "title" : "APPLIED",
+    "year" : "2020",
+    "main" : "THOUGHTS & PERSPECTIVES",
+    "para" : "Our panel series and thought-leadership platform where we share perspectives and tactics related to strategy, design and technology",
+    "link" : "Explore Applied"
+},
+{
+    "number" : "03",
+    "img" : "/img3.jpg",
+    "title" : "MOVES",
+    "year" : "2019",
+    "main" : "OUR NEW HQ",
+    "para" : "When we moved into our new HQ, we put together a site experience providing an in-depth look into the two-year process imagining, designing and developing our new office we call home",
+    "link" : "Visit the site"
+},
+{
+    "number" : "04",
+    "img" : "/img2.jpg",
+    "title" : "APPLIED",
+    "year" : "2020",
+    "main" : "THOUGHTS & PERSPECTIVES",
+    "para" : "Our panel series and thought-leadership platform where we share perspectives and tactics related to strategy, design and technology",
+    "link" : "Explore Applied"
+},
+{
+    "number" : "05",
+    "img" : "/img2.jpg",
+    "title" : "APPLIED",
+    "year" : "2020",
+    "main" : "THOUGHTS & PERSPECTIVES",
+    "para" : "Our panel series and thought-leadership platform where we share perspectives and tactics related to strategy, design and technology",
+    "link" : "Explore Applied"
+}
+]
