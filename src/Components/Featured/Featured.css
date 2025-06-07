@@ -4,6 +4,8 @@
     display: flex;
     flex-direction: column;
     gap: 100px;
+    width: 100%;
+    box-sizing: border-box;
 }
 
 .featured-heading{
@@ -20,4 +22,53 @@
 .featured-items-flex{
     display: flex;
     flex-direction: row;
+    overflow-x: auto;
+    overflow-y: hidden;
+    width: 100%;
+    padding-bottom: 10px;
+    gap: 2rem;
+    scroll-behavior: smooth;
+    cursor: grab;
+    user-select: none;
+    -webkit-overflow-scrolling: touch;
+}
+
+.featured-items-flex.active {
+  cursor: grabbing;
+}
+
+.featured-items-flex::-webkit-scrollbar {
+  height: 6px;
+}
+
+.featured-items-flex::-webkit-scrollbar-track {
+  background: #eee;
+  border-radius: 10px;
+}
+
+.featured-items-flex::-webkit-scrollbar-thumb {
+  background: #333;
+  border-radius: 10px;
+}
+
+.featured-items-flex::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+.featured-items-flex {
+  scrollbar-width: thin;
+  scrollbar-color: #333 #eee;
+}
+
+.title{
+    font-size: 2rem;
+    font-weight: 600;
+}
+
+.head{
+    font-size: 1.2rem;
+}
+
+.para{
+    width: 300px;
 }

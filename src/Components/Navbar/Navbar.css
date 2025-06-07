@@ -5,8 +5,8 @@
    justify-content: space-between;
    align-items: center;
    padding-top: 50px;
-   padding-left: 80px;
-   padding-right: 80px;
+   padding-left: 50px;
+   padding-right: 50px;
    padding-bottom: 50px;
    width: 100%;
    box-sizing: border-box;
@@ -31,7 +31,7 @@
 }
 
 .nav-logo{
-    font-size: 1.8rem;
+    font-size: 1.5rem;
     font-weight: 800;
 }
 
@@ -52,7 +52,7 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
-  font-size: 1.3rem;
+  font-size: 1rem;
 }
 
 .header-underline{
@@ -76,7 +76,7 @@
     flex-direction: column;
     align-items: center;
     position: relative;
-    font-size: 1.3rem;
+    font-size: 1rem;
 }
 
 .dropdown{
@@ -110,7 +110,7 @@ display: none;
 
 .search-link{
     position: relative;
-    font-size: 1.3rem;
+    font-size: 1rem;
 }
 
 .search-overlay {

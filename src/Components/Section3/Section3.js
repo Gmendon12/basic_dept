@@ -33,7 +33,13 @@ function Section3() {
 
             <div className='section3-3-items'>
                 <div className='section3-3-1'>
-                    <img src="/img3.jpg" className='section3-3-1-img' alt="" />
+                    <video
+                    src={`/tech2.mp4`}
+                    autoPlay
+                    muted
+                    loop
+                    className='section3-3-1-video'
+                    ></video>
                 </div>
                 <div className='section3-3-1-text'>WILSON</div>
                 <div className='section3-3-1-para'>A CENTURY OLD SPORTS BRNAD FINDING ITS PLACE IN CULTURE</div>
